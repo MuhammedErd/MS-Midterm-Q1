@@ -2,8 +2,8 @@
 	ENTRY
 	EXPORT __main
 __main
-    LDR R0, =sen
-    LDR R2, =sen1
+    LDR R0, =o_sen
+    LDR R2, =n_sen
     MOV R3, #0      ;   whitespace flag
     LDRB R1, [R0]     
     STRB R1, [R2] 
@@ -32,11 +32,11 @@ out
     BAL out
     
     
-sen DCB "muha   mmed     erd  #  "
+o_sen DCB "abc   edf    ghi   jklmn         xyz#  "
      ALIGN
     AREA data, DATA ,READWRITE
 
-sen1 SPACE 4096
+n_sen1 SPACE 4096
 
     END
 
