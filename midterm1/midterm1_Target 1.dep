@@ -1,0 +1,3 @@
+Dependencies for Project 'midterm1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x5AD8D593)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\CMSIS\Include" -I "C:\Keil\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\midterm1.s)(0x5AD8EC27)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\CMSIS\Include" -I "C:\Keil\ARM\INC\Philips" --list "midterm1.lst" --xref -o "midterm1.o" --depend "midterm1.d")

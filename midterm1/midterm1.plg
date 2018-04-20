@@ -1,0 +1,11 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\keil Projects\midterm1\midterm1.uvproj
+Project File Date:  04/19/2018
+
+<h2>Output:</h2>
+"LPC210x_ISP.EXE" "C:\keil Projects\midterm1\midterm1.HEX" 12000 LPC2102 COM1: 9600 1
+--- Error: failed to execute '"LPC210x_ISP.EXE" "C:\keil Projects\midterm1\midterm1.HEX" 12000 LPC2102 COM1: 9600 1'
