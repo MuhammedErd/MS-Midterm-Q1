@@ -36,7 +36,7 @@ o_sen DCB "abc   edf    ghi   jklmn         xyz#  "
      ALIGN
     AREA data, DATA ,READWRITE
 
-n_sen1 SPACE 4096
+n_sen SPACE 4096
 
     END
 
